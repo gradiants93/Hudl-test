@@ -1,0 +1,4 @@
+module.exports = {
+    username : "username", //replace with your username
+    password : "password" //replace with your password
+}
